@@ -1,16 +1,14 @@
-## Hi there 👋
+# pedroh1b
+*** boas vindas ao meu prfil🖤
 
-<!--
-**Pedroh1b/pedroh1b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e pedro henrique
+**objetivo** 
+- estou usando o [alura](https:www.alura.com.br)
+- estou me desenvolvendo nessa plataforma
+- estou usado esse projeto para minha organizacao e compartilhar meu projetos
 
-Here are some ideas to get you started:
+  ###voce pode entrar e contato comigi 📬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  00001125038159sp@al.educacao.sp.gov.br
+
+  ![](https://media1.tenor.com/m/JvQ40Z90vsMAAAAC/i%27m-soaking-wet-right-now-wade-wilson.gif)
